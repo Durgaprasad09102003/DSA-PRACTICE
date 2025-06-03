@@ -50,30 +50,32 @@ Constraints
 import java.util.Scanner;
 
 class ReverseDigits{
-    public int reverseNumber(int n) {
-
+    public int reverse(int x) {
         int digit = 0, temp, sign;
 
-        sign = n > 0 ? 1 : -1;
-
-        n = n < 0 ? (n * (-1)) : n;
-
-        while(n>0){
-        temp = n % 10;
-        digit = temp + (digit * 10);
-        n = n / 10;
+        sign = x > 0 ?  1 : -1;
+        x = x < 0 ?  (x * (-1)) : x;
+        
+        while(x>0){
+            if(digit > Integer.MAX_VALUE/10 || digit < Integer.MIN_VALUE/10){
+                return 0;
+            }
+            else{
+            temp = x % 10;
+            digit = temp + (digit * 10);
+            x = x / 10;
+            }
         }
 
-        digit = sign < 0 ? digit * sign : digit;
+        digit = sign < 0 ?  digit * sign : digit;
 
         return digit;
-
     }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ReverseDigits obj = new ReverseDigits();
         int num = sc.nextInt();
-        System.out.println(obj.reverseNumber(num));
+        System.out.println(obj.reverse(num));
     }
 }
