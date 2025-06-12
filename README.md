@@ -7,7 +7,7 @@ Each section is carefully practiced and documented to strengthen my understandin
 
 📅 Daily Progress Breakdown
 
-✅ 3rd June 2025 — Basic Math Problems
+✅ DAY 1 — Basic Math Problems
 - ✅ GCD of Two Numbers  
 - ✅ Prime Number Check  
 - ✅ Palindrome Number  
@@ -16,16 +16,16 @@ Each section is carefully practiced and documented to strengthen my understandin
 - ✅ Armstrong Number  
 - ✅ Divisors of an Integer 
 
-✅ 4th June 2025 — Searching Algorithms
+✅DAY 2 — Searching Algorithms
 - ✅ Linear Search  
 - ✅ Binary Search (with O(log n) implementation)  
 
-✅ 5th June 2025 — Fundamental Sorting Algorithms
+✅ DAY 3 — Fundamental Sorting Algorithms
 - ✅ Bubble Sort  
 - ✅ Selection Sort  
 - ✅ Insertion Sort   
 
-✅ 6th June 2025 — Advanced Sorting Algorithms
+✅ DAY 4 — Advanced Sorting Algorithms
 - ✅ Merge Sort (Divide & Conquer)  
 - ✅ Quick Sort (Pivot-based recursion)  
 - ✅ Cycle Sort (For unique numbers, O(n) writes)  
@@ -34,7 +34,7 @@ Each section is carefully practiced and documented to strengthen my understandin
 ## 📂 Folder Structure
 
 ```bash
-├── 03-06-2025
+├── DAY 1
 │   ├── GCD.java
 │   ├── PrimeCheck.java
 │   └── PalindromeNumber.java
@@ -43,7 +43,7 @@ Each section is carefully practiced and documented to strengthen my understandin
 │   └── ArmstrongNumber.java 
 │   └── AllDivisors.java
 
-├── 04-06-2025
+├── Day 2
 │   ├── LinearSearch.java
 │   ├── BinarySearch.java
 │   └── ...
