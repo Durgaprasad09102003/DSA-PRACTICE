@@ -20,10 +20,10 @@ Each section is carefully practiced and documented to strengthen my understandin
 - ✅ Linear Search  
 - ✅ Binary Search (with O(log n) implementation)  
 
-✅ DAY 3 — Fundamental Sorting Algorithms
-- ✅ Bubble Sort  
-- ✅ Selection Sort  
-- ✅ Insertion Sort   
+✅ DAY 3 — Arrays
+- ✅ Largest Element in the Array 
+- ✅ Second Largest Element in the Array 
+- ✅ Check the Array is Sorted and Rotated   
 
 ✅ DAY 4 — Advanced Sorting Algorithms
 - ✅ Merge Sort (Divide & Conquer)  
@@ -42,15 +42,15 @@ Each section is carefully practiced and documented to strengthen my understandin
 │   └── CountDigits.java 
 │   └── ArmstrongNumber.java 
 │   └── AllDivisors.java
-
+│   └── ...
 ├── Day 2
 │   ├── LinearSearch.java
 │   ├── BinarySearch.java
 │   └── ...
-├── 05-06-2025
-│   ├── BubbleSort.java
-│   ├── SelectionSort.java
-│   ├── InsertionSort.java
+├── Day 3
+│   ├── LargestElementArray.java
+│   ├── SecondLargestElementArray.java
+│   ├── CheckArraySortedRotated.java
 │   └── ...
 ├── 06-06-2025
 │   ├── MergeSort.java
