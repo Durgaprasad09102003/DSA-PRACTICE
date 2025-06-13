@@ -1,34 +1,35 @@
 # 📚 DSA Practice Journal - Durgaprasad Pilli
 
-Welcome to my structured DSA (Data Structures and Algorithms) GitHub repository. This repo contains my daily problem-solving progress organized by date and topic, written in Java. 
+Welcome to my structured DSA (Data Structures and Algorithms) GitHub repository. This repo contains my daily problem-solving progress organized by date and topic, written in Java.  
 Each section is carefully practiced and documented to strengthen my understanding of core programming concepts and improve problem-solving skills.
 
 ---
 
-📅 Daily Progress Breakdown
+## 📅 Daily Progress Breakdown
 
-✅ DAY 1 — Basic Math Problems
+✅ **DAY 1 — Basic Math Problems**  
 - ✅ GCD of Two Numbers  
 - ✅ Prime Number Check  
 - ✅ Palindrome Number  
 - ✅ Reverse Digits of a Number  
 - ✅ Count of Digits  
 - ✅ Armstrong Number  
-- ✅ Divisors of an Integer 
+- ✅ Divisors of an Integer  
 
-✅DAY 2 — Searching Algorithms
+✅ **DAY 2 — Searching Algorithms**  
 - ✅ Linear Search  
 - ✅ Binary Search (with O(log n) implementation)  
 
-✅ DAY 3 — Arrays
-- ✅ Largest Element in the Array 
-- ✅ Second Largest Element in the Array 
-- ✅ Check the Array is Sorted and Rotated   
+✅ **DAY 3 — Arrays**  
+- ✅ Largest Element in the Array  
+- ✅ Second Largest Element in the Array  
+- ✅ Check if the Array is Sorted and Rotated  
 
-✅ DAY 4 — Advanced Sorting Algorithms
-- ✅ Merge Sort (Divide & Conquer)  
-- ✅ Quick Sort (Pivot-based recursion)  
-- ✅ Cycle Sort (For unique numbers, O(n) writes)  
+✅ **DAY 4 — Array Manipulation**  
+- ✅ Remove Duplicates from Sorted Array  
+- ✅ Rotate Array (Right Shift by k positions)  
+- ✅ Move Zeroes to the End  
+
 ---
 
 ## 📂 Folder Structure
@@ -37,23 +38,22 @@ Each section is carefully practiced and documented to strengthen my understandin
 ├── DAY 1
 │   ├── GCD.java
 │   ├── PrimeCheck.java
-│   └── PalindromeNumber.java
-│   └── ReverseDigits.java
-│   └── CountDigits.java 
-│   └── ArmstrongNumber.java 
-│   └── AllDivisors.java
-│   └── ...
-├── Day 2
+│   ├── PalindromeNumber.java
+│   ├── ReverseDigits.java
+│   ├── CountDigits.java 
+│   ├── ArmstrongNumber.java 
+│   ├── AllDivisors.java
+│
+├── DAY 2
 │   ├── LinearSearch.java
 │   ├── BinarySearch.java
-│   └── ...
-├── Day 3
+│
+├── DAY 3
 │   ├── LargestElementArray.java
 │   ├── SecondLargestElementArray.java
 │   ├── CheckArraySortedRotated.java
-│   └── ...
-├── 06-06-2025
-│   ├── MergeSort.java
-│   ├── QuickSort.java
-│   ├── CycleSort.java
-
+│
+├── DAY 4
+│   ├── RemoveDuplicatesSortedArray.java
+│   ├── RotateArray.java
+│   ├── MoveZeroes.java
