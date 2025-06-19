@@ -66,11 +66,11 @@ Each section is carefully practiced and documented to strengthen my understandin
 │   ├── RemoveDuplicatesSortedArray.java
 │   ├── RotateArray.java
 │   ├── MoveZeroes.java
-|
+│
 ├── DAY 5
 │   ├── MaxConsecutiveOnes.java
 │   ├── MissingNumber.java
-|
+│
 ├── DAY 6
 │   ├── PrintNtimesRecurrsion.java
 │   ├── PrintNtoOneRecurrsion.java
