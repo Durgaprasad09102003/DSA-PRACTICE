@@ -28,7 +28,16 @@ Each section is carefully practiced and documented to strengthen my understandin
 ✅ **DAY 4 — Array Manipulation**  
 - ✅ Remove Duplicates from Sorted Array  
 - ✅ Rotate Array (Right Shift by k positions)  
-- ✅ Move Zeroes to the End  
+- ✅ Move Zeroes to the End
+
+✅ **DAY 5 — Bit Manipulation & Logic**
+- ✅ Max Consecutive Ones  
+- ✅ Missing Number  
+
+✅ **DAY 6 — Basic Recursion**
+- ✅ Print N times using Recursion  
+- ✅ Print from N to 1 using Recursion  
+- ✅ Print from 1 to N using Recursion  
 
 ---
 
@@ -57,3 +66,12 @@ Each section is carefully practiced and documented to strengthen my understandin
 │   ├── RemoveDuplicatesSortedArray.java
 │   ├── RotateArray.java
 │   ├── MoveZeroes.java
+|
+├── DAY 5
+│   ├── MaxConsecutiveOnes.java
+│   ├── MissingNumber.java
+|
+├── DAY 6
+│   ├── PrintNtimesRecurrsion.java
+│   ├── PrintNtoOneRecurrsion.java
+│   ├── PrintOnetoNRecurrsion.java
