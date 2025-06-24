@@ -39,6 +39,11 @@ Each section is carefully practiced and documented to strengthen my understandin
 - ✅ Print from N to 1 using Recursion  
 - ✅ Print from 1 to N using Recursion  
 
+✅ **DAY 7 — Parameterized vs Functional Recursion**  
+- ✅ Factorial using Functional Recursion  
+- ✅ Factorial using Parameterized Recursion  
+- ✅ Summation using Functional Recursion  
+- ✅ Summation using Parameterized Recursion  
 ---
 
 ## 📂 Folder Structure
@@ -75,3 +80,9 @@ Each section is carefully practiced and documented to strengthen my understandin
 │   ├── PrintNtimesRecurrsion.java
 │   ├── PrintNtoOneRecurrsion.java
 │   ├── PrintOnetoNRecurrsion.java
+│
+├── DAY 7
+│   ├── FactorialFunctional.java
+│   ├── FactorialParameterised.java
+│   ├── SummationFunctional.java
+│   ├── SummationParameterised.java
