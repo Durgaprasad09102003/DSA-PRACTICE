@@ -43,7 +43,20 @@ Each section is carefully practiced and documented to strengthen my understandin
 - ✅ Factorial using Functional Recursion  
 - ✅ Factorial using Parameterized Recursion  
 - ✅ Summation using Functional Recursion  
-- ✅ Summation using Parameterized Recursion  
+- ✅ Summation using Parameterized Recursion
+
+✅ DAY 8 — Array and String Recursion
+- ✅ Array Reverse using Recursion
+- ✅ Palindrome String Check using Recursion
+
+✅ DAY 9 — Recursion-Based Fibonacci
+- ✅ Fibonacci using Iteration
+- ✅ Fibonacci using Recursion
+
+✅ DAY 10 — Sorting Algorithms
+- ✅ Bubble Sort
+- ✅ Insertion Sort
+- ✅ Selection Sort 
 ---
 
 ## 📂 Folder Structure
@@ -86,3 +99,16 @@ Each section is carefully practiced and documented to strengthen my understandin
 │   ├── FactorialParameterised.java
 │   ├── SummationFunctional.java
 │   ├── SummationParameterised.java
+│
+├── DAY 8
+│   ├── ArrayReverseRecursion.java
+│   ├── PalindromeCheckRecursion.java
+│
+├── DAY 9
+│   ├── FibinacciNumber.java
+│   ├── NternFibinacciNumberRecursion.java
+│
+├── DAY 10
+│   ├── BubbleSort.java
+│   ├── InsertionSort.java
+│   ├── SelectionSort.java
